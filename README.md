@@ -1,2 +1,2 @@
 # Simple-Games
-Implementing simple games
+Implementing simple games with OOP
